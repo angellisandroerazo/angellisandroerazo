@@ -14,11 +14,7 @@ Tecnólogo superior en Desarrollo de Software con deseo de crecer en este emocio
 
 ### 🛠 &nbsp;Skills
 
-<div align="center">
-  
 [![My Skills](https://skillicons.dev/icons?i=go,cs,dotnet,js,html,css,react,npm,mysql,php,visualstudio&perline=15)](#)
-
-</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
