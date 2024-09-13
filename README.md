@@ -12,5 +12,7 @@ Tecnólogo superior en Desarrollo de Software con deseo de crecer en este emocio
 [![My Skills](https://skillicons.dev/icons?i=go,cs,dotnet,js,html,css,react,npm,mysql,php,visualstudio&perline=15)](#)
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angellisandroerazo&show_icons=true&theme=merco)](https://github.com/angellisandroerazo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angellisandroerazo&langs_count=8)
+
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angellisandroerazo&show_icons=true&theme=merko)](https://github.com/angellisandroerazo)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angellisandroerazo&hide_progress=true)
