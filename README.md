@@ -19,5 +19,7 @@ Tecnólogo superior en Desarrollo de Software con deseo de crecer en este emocio
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angellisandroerazo&hide_progress=true&theme=merko)
+
 </div>
