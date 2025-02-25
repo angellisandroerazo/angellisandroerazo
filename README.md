@@ -12,7 +12,7 @@
 
 Tecnólogo superior en Desarrollo de Software con deseo de crecer en este emocionante campo.
 
-### ⚙️ &nbsp;GitHub Analytics
+---
 
 <div align="center">
   
