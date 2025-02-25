@@ -1,4 +1,5 @@
-<h1 align="center">Hola, soy Angel</h1>
+Hola 👋 Me llamo Angel Lisandro Erazo
+=====================================
 
 ![Banner](bitmap.png)
 
