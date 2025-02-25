@@ -8,9 +8,7 @@
 
 </div>
 
-### 👨🏻‍💻 &nbsp;Sobre mi
-
-Tecnólogo superior en Desarrollo de Software con deseo de crecer en este emocionante campo.
+Aspiro a enfrentar desafíos técnicos y aprender de cada experiencia para mejorar constantemente.
 
 ---
 
